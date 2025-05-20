@@ -4,10 +4,17 @@ permalink: /playlists/
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-#   overlay_image: /assets/images/cover.jpg  # optional background image
+  overlay_filter: "0.7"
+  overlay_image: /assets/images/playlists.jpg
+  actions:
+    - label: "Follow on Spotify"
+      url: "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=70a0061cda474fcf"
+excerpt: Curated playlists updated weekly and organized with care. Always fresh.
 read_time: false
 ---
+
+Carefully curated and updated often. Here are a few to get you started—explore the full collection on <a href = "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=70a0061cda474fcf">Spotify</a>.
+
 <div align= "center">
 
 <!-- Jams of the Week -->
