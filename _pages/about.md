@@ -1,8 +1,23 @@
 ---
+title: About
 permalink: /about/
-title: "About"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+#   overlay_image: /assets/images/cover.jpg  # optional background image
+read_time: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Raych 🏳️‍🌈 — a data wrangler by day, playlist curator by passion, and lifelong creative dabbler.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This site is home base for my digital experiments: weekly music picks, personal projects, and whatever else I’m into at the moment. You’ll find traces of tech, sound, and a small zoo of pets (three senior dogs, three turtles, and a bustling guppy tank).
+
+Sometimes thoughtful, sometimes chaotic — always real. Welcome to The Cove.
+
+If you want to follow along:
+- I post weekly playlists on [Spotify](https://open.spotify.com/user/raych)
+- Share photos and shorts on [Bluesky](https://bsky.app/profile/raych.bsky.social)
+- And stream my guppies on [Twitch](https://twitch.tv/guppycove)
+
+Thanks for being here 💚

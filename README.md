@@ -1,15 +1,10 @@
 # raych.com
 
-This is the source code for [raych.com](https://raych.com) — the personal site of Raych: playlist curator, data-driven creative, and proud turtle mom.
+This is the source code for [raych.com](https://raych.github.io) — the digital playground of Rachel Sprague (aka Raych).
 
-## What's here
+You’ll find curated playlists, creative projects, tech-laced experiments, and stories from a home filled with turtles, senior pups, and too many guppies.
 
-This site is built with [Jekyll](https://jekyllrb.com/) and hosted via [GitHub Pages](https://pages.github.com/). It includes:
-
-- Curated playlists and music recommendations  
-- Creative projects and experiments  
-- Links to Raych’s other online spaces  
-- A little slice of life with dogs, turtles, and guppies
+Built with ❤️ using [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com).
 
 ## Development
 

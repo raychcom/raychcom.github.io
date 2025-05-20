@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: raych
+title: raych.com
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Playlists, projects, and tech experiments by Raych — a data-driven creative with a love for music, making things, and life with a small zoo of senior dogs, turtles, and guppies.
@@ -21,6 +21,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+target_blank: true
 
 # Build settings
 markdown: kramdown
@@ -56,40 +57,52 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "raych"
+  name   : Raych
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hey, I’m Raych — playlist curator, data nerd, and turtle mom. I make things with code, spreadsheets, and curiosity. You’ll find music, side projects, and pets all over this space."
   links:
     - label: "raych.com"
       icon: "fas fa-fw fa-link"
       url: "https://www.raych.com"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raychcom"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "Spotify"
+      icon: "fab fa-spotify"
+      url: "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=70a0061cda474fcf"
+    - label: "Twitch"
+      icon: "fab fa-twitch"
+      url: "https://www.twitch.tv/raych_com"
+    - label: "Bluesky"
+      icon: "fas fa-cloud"
+      url: "https://bsky.app/profile/raych.com"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "raych.com"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.raych.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raychcom"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "Spotify"
+      icon: "fab fa-spotify"
+      url: "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=70a0061cda474fcf"
+    - label: "Twitch"
+      icon: "fab fa-twitch"
+      url: "https://www.twitch.tv/raych_com"
+    - label: "Bluesky"
+      icon: "fas fa-cloud"
+      url: "https://bsky.app/profile/raych.com"
+    - label: "Substack"
+      icon: "fas fa-newspaper"
+      url: "https://byraych.substack.com/"
 
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
