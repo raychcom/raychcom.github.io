@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/playlists.jpg
   actions:
     - label: "Follow on Spotify"
-      url: "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=70a0061cda474fcf"
+      url: "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=0f0673a420cc4a29"
 excerpt: Curated playlists updated weekly and organized with care. Always fresh.
 read_time: false
 ---
