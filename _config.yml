@@ -21,7 +21,6 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-target_blank: true
 
 # Build settings
 markdown: kramdown

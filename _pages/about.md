@@ -9,11 +9,11 @@ header:
 read_time: false
 ---
 
-Hi, I’m Raych 🏳️‍🌈 — a data wrangler by day, playlist curator by passion, and lifelong creative dabbler.
+Hi, I’m Raych 🏳️‍🌈 — a data wrangler, music consumer, and lifelong creative dabbler.
 
-This site is home base for my digital experiments: weekly music picks, personal projects, and whatever else I’m into at the moment. You’ll find traces of tech, sound, and a small zoo of pets (three senior dogs, three turtles, and a bustling guppy tank).
+This site is home base for my digital experiments: weekly music picks, personal projects, and whatever else I’m into at the moment. You’ll find traces of tech, music, and a small zoo of pets (three senior dogs, three turtles, and a couple of planted guppy tanks).
 
-Sometimes thoughtful, sometimes chaotic — always real. Welcome to The Cove.
+Welcome to The Cove.
 
 If you want to follow along:
 - I post weekly playlists on [Spotify](https://open.spotify.com/user/raych)

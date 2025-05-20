@@ -13,7 +13,7 @@ excerpt: Curated playlists updated weekly and organized with care. Always fresh.
 read_time: false
 ---
 
-Carefully curated and updated often. Here are a few to get you started—explore the full collection on <a href = "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=70a0061cda474fcf">Spotify</a>.
+Carefully curated and updated often. Here are a few to get you started. Explore the full collection on <a href = "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=70a0061cda474fcf">Spotify</a>.
 
 <div align= "center">
 

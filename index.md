@@ -11,11 +11,11 @@ header:
     - label: "Guppy Livestream"
       url: "https://www.twitch.tv/raych_com"
 read_time: false
-excerpt: "Curated soundtracks, pet-powered chaos, and digital experiments by Raych 🐢"
+excerpt: "Curated soundtracks. Pet chaos. Digital experiments. By me, Raych 🐢"
 intro: 
-  - excerpt: 'Updates weekly. Expect playlists, photos, and projects — all from a data wrangler with a fish tank.'
+  - excerpt: 'Updates weekly. Expect playlists, pets, and projects — all from a data wrangler with a fish tank.'
 ---
 
-Welcome to **raych.com** — my little corner of the internet, powered by music, metadata, and mild chaos.  
+Welcome to **raych.com** — my little corner of the internet. Powered by music, curiosity, and caffeine. ©
 
 Explore weekly playlists, live streams, and whatever else I'm noodling on.
