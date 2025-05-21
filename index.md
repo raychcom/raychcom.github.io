@@ -18,4 +18,4 @@ intro:
 
 Welcome to **raych.com** — my little corner of the internet. Powered by music, curiosity, and caffeine. ©
 
-Explore weekly playlists, live streams, and whatever else I'm noodling on.
+Explore weekly playlists, live streams, and whatever else I'm messing with.
