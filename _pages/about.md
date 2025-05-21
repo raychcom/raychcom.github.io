@@ -16,8 +16,7 @@ This site is home base for my digital experiments: weekly music picks, personal 
 Welcome to The Cove.
 
 If you want to follow along:
-- I post weekly playlists on [Spotify](https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=0f0673a420cc4a29)
-- Share photos and shorts on [Bluesky](https://bsky.app/profile/raych.com)
-- And stream my guppies on [Twitch](https://twitch.tv/guppycove)
+- [Spotify](https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=0f0673a420cc4a29) for playlists
+- Bluesky for [microblogging](https://bsky.app/profile/raych.com), [photos](https://bsky.app/profile/photos.raych.com), [shorts](https://bsky.app/profile/shorts.raych.com), and [THE TURTLES](https://bsky.app/profile/turtles.raych.com) (and other pets). Yes, I split the accounts. Because I’m neurotic.
 
 Thanks for being here 💚
