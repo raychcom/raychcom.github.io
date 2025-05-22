@@ -9,8 +9,8 @@ main:
     url: /
   - title: "Playlists"
     url: /playlists/
-  # - title: "Turtles"
-  #   url: /turtles/
+  - title: "Turtles"
+    url: /turtles/
   # - title: "Work"
   #   url: /work/
   - title: "About"
