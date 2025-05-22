@@ -11,7 +11,7 @@ main:
     url: /playlists/
   - title: "Turtles"
     url: /turtles/
-  # - title: "Work"
-  #   url: /work/
+  - title: "Work"
+    url: /work/
   - title: "About"
     url: /about/
