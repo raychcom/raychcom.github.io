@@ -11,7 +11,9 @@ main:
     url: /playlists/
   - title: "Turtles"
     url: /turtles/
-  - title: "Work"
-    url: /work/
   - title: "About"
     url: /about/
+  - title: "Work"
+    url: /work/
+  - title: "Newsletter"
+    url: https://byraych.substack.com/
