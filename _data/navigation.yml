@@ -13,7 +13,7 @@ main:
     url: /turtles/
   - title: "About"
     url: /about/
-  - title: "Work"
-    url: /work/
+  # - title: "Work"
+  #   url: /work/
   - title: "Newsletter"
     url: https://byraych.substack.com/
