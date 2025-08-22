@@ -11,7 +11,7 @@ header:
       url: "https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=0f0673a420cc4a29"
     - label: "Follow on Substack"
       url: "https://byraych.substack.com/"
-excerpt: Curated playlists updated weekly and organized with care. Always fresh.
+# excerpt: Curated playlists updated weekly and organized with care. Always fresh.
 read_time: false
 ---
 
