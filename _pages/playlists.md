@@ -1,7 +1,7 @@
 ---
 title: Playlists
 permalink: /playlists/
-layout: post
+layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
@@ -13,10 +13,7 @@ header:
       url: "https://byraych.substack.com/"
 excerpt: Curated playlists updated weekly and organized with care. Always fresh.
 read_time: false
-minimal_mistakes_skin: "sunrise"
 ---
-
---> For commentary, follow my <a href = "https://byraych.substack.com/">Substack<a/>.
 
 <div align= "center">
 
