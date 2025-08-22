@@ -16,6 +16,8 @@ read_time: false
 minimal_mistakes_skin: "sunrise"
 ---
 
+--> For commentary, follow my <a href = "https://byraych.substack.com/">Substack<a/>.
+
 <div align= "center">
 
 <!-- Jams of the Week -->
