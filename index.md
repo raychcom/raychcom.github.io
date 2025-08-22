@@ -16,6 +16,14 @@ intro:
   - excerpt: 'Updates weekly. Expect playlists, pets, and projects — all from a data wrangler with a fish tank.'
 ---
 
-Welcome to **raych.com** — my little corner of the internet. Powered by music, curiosity, and caffeine. ©
+<!-- Welcome to **raych.com** — my little corner of the internet. Powered by music, curiosity, and caffeine. ©
 
-Explore weekly playlists, live streams, and whatever else I'm messing with.
+Explore weekly playlists, live streams, and whatever else I'm messing with. -->
+
+These days I’m posting on Bluesky and other decentralized platforms. You can follow along here:
+
+[Bluesky](https://bsky.app/profile/raych.com)
+[Shorts](https://bsky.app/profile/shorts.raych.com)
+[Photos](https://bsky.app/profile/photos.raych.com)
+[THE TURTLES](https://bsky.app/profile/turtles.raych.com)
+[Spotify](https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=0f0673a420cc4a29)
