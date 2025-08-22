@@ -20,7 +20,9 @@ intro:
 
 Explore weekly playlists, live streams, and whatever else I'm messing with. -->
 
-These days I’m posting on Bluesky and other decentralized platforms. You can follow along here:
+Domain names are like $15/year 🤷🏻‍♀️, so here we are.  
+I’m a tech-y gal who listens to too much music and mostly hangs with my fiancee and pets.  
+Follow me on social media: (Bluesky and other decentralized platforms. And Spotify.)
 
 [Bluesky](https://bsky.app/profile/raych.com)
 [Shorts](https://bsky.app/profile/shorts.raych.com)
