@@ -21,8 +21,8 @@ intro:
 
 Explore weekly playlists, live streams, and whatever else I'm messing with. -->
 
-I’m a tech-y gal who listens to too much music and mostly hangs with my fiancee and pets. <br/>
-Follow me on social media: (Bluesky and other decentralized platforms. And Spotify.)<br/>
+I’m a tech-y gal who listens to too much music and mostly hangs with my fiancée and pets. <br/>
+Follow me on social media (Bluesky and other decentralized platforms. And Spotify.):<br/>
 <br/>
 - [Bluesky](https://bsky.app/profile/raych.com)
 - [Shorts](https://bsky.app/profile/shorts.raych.com)
