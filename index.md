@@ -11,7 +11,8 @@ header:
     - label: "Guppy Livestream"
       url: "https://www.twitch.tv/raych_com"
 read_time: false
-excerpt: "Curated soundtracks. Pet chaos. Digital experiments. By me, Raych 🐢"
+# excerpt: "Curated soundtracks. Pet chaos. Digital experiments. By me, Raych 🐢"
+excerpt: "Domain names are like $15/year 🤷🏻‍♀️, so here we are."
 intro: 
   - excerpt: 'Updates weekly. Expect playlists, pets, and projects — all from a data wrangler with a fish tank.'
 ---
@@ -20,7 +21,6 @@ intro:
 
 Explore weekly playlists, live streams, and whatever else I'm messing with. -->
 
-Domain names are like $15/year 🤷🏻‍♀️, so here we are.  
 I’m a tech-y gal who listens to too much music and mostly hangs with my fiancee and pets.  
 Follow me on social media: (Bluesky and other decentralized platforms. And Spotify.)
 
