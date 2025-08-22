@@ -24,8 +24,8 @@ Domain names are like $15/year 🤷🏻‍♀️, so here we are.
 I’m a tech-y gal who listens to too much music and mostly hangs with my fiancee and pets.  
 Follow me on social media: (Bluesky and other decentralized platforms. And Spotify.)
 
-[Bluesky](https://bsky.app/profile/raych.com)
-[Shorts](https://bsky.app/profile/shorts.raych.com)
-[Photos](https://bsky.app/profile/photos.raych.com)
-[THE TURTLES](https://bsky.app/profile/turtles.raych.com)
-[Spotify](https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=0f0673a420cc4a29)
+- [Bluesky](https://bsky.app/profile/raych.com)
+- [Shorts](https://bsky.app/profile/shorts.raych.com)
+- [Photos](https://bsky.app/profile/photos.raych.com)
+- [THE TURTLES](https://bsky.app/profile/turtles.raych.com)
+- [Spotify](https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=0f0673a420cc4a29)
