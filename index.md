@@ -21,7 +21,7 @@ intro:
 
 Explore weekly playlists, live streams, and whatever else I'm messing with. -->
 
-I’m a tech-y gal who listens to too much music and mostly hangs with my ~fiancée~ wife and pets. <br/>
+I’m a tech-y gal who listens to too much music and mostly hangs with my ~~fiancée~~ wife and pets. <br/>
 <br/>
 Follow me on social media (Bluesky and other decentralized platforms. And Spotify.):<br/>
 <br/>
