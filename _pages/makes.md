@@ -9,11 +9,11 @@ header:
 read_time: false
 ---
 
-I got a Cricut … and I’m kinda afraid to use it! Projects coming soon.
+I got a Cricut … and I’m kinda afraid to use it. Projects coming soon.
 
 ---
 
 ### Contact
 
 - [makes@raych.com](mailto:makes@raych.com)
-- [TikTok](https://tiktok.com/@raych_makes)
+- [TikTok](https://tiktok.com/@raych.makes)
