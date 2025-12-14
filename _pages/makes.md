@@ -4,8 +4,8 @@ permalink: /makes/
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/raych_makes.png
+  overlay_filter: "0.9"
+  overlay_image: /assets/images/about.jpg
   actions:
     - label: "Bluesky"
       url: "https://bsky.app/profile/makes.raych.com"
