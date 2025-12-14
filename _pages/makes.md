@@ -16,4 +16,5 @@ I got a Cricut … and I’m kinda afraid to use it. Projects coming soon.
 ### Contact
 
 - [makes@raych.com](mailto:makes@raych.com)
+- [Bluesky](https://bsky.app/profile/makes.raych.com)
 - [TikTok](https://tiktok.com/@raych.makes)
