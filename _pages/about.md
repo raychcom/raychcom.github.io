@@ -11,7 +11,7 @@ read_time: false
 
 <!-- Hi, I’m Raych 🏳️‍🌈 — a data wrangler, music consumer, and lifelong creative dabbler. -->
 
-This site is the home base for my digital experiments: weekly music picks, personal projects, and whatever else I’m fiddling with. Expect traces of tech, music, and a small zoo of pets (three senior dogs, three turtles, and a couple of planted guppy tanks).
+This site is the home base for my digital experiments: weekly music picks, personal projects, and whatever else I’m fiddling with. Expect traces of tech, music, crafts and a small zoo of pets (~~three~~ one senior dog 😭, three turtles, and a couple of planted guppy tanks).
 
 <!-- Welcome to The Cove. -->
 
