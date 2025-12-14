@@ -28,5 +28,6 @@ Follow me on social media (Bluesky and other decentralized platforms. And Spotif
 - [Bluesky](https://bsky.app/profile/raych.com)
 - [Shorts](https://bsky.app/profile/shorts.raych.com)
 - [Photos](https://bsky.app/profile/photos.raych.com)
+- [Raych Makes](https://bsky.app/profile/makes.raych.com)
 - [THE TURTLES](https://bsky.app/profile/turtles.raych.com)
 - [Spotify](https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay?si=0f0673a420cc4a29)
