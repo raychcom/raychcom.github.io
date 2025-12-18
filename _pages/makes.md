@@ -20,8 +20,8 @@ I got a Cricut … and I’m kinda afraid to use it. Projects coming soon.
 
 ### Contact
 
-- [Etsy](https://www.etsy.com/shop/RaychMakes)
 - [Bluesky](https://bsky.app/profile/makes.raych.com)
 - [TikTok](https://tiktok.com/@raych.makes)
 - [YouTube](https://youtube.com/@raych_com?)
+- [Etsy](https://www.etsy.com/shop/RaychMakes)
 - [makes@raych.com](mailto:makes@raych.com)
