@@ -14,9 +14,9 @@ header:
 read_time: false
 ---
 
-The turtles racked up 12.6k+ followers and 300k+ likes on TikTok—but I've moved all their content off the platform. You can now follow them [@turtles.raych.com](https://bsky.app/profile/turtles.raych.com) on Bluesky.
+The turtles racked up 12.6k+ followers and 300k+ likes on TikTok—but I've moved all their content off the platform. You can now follow them on Bluesky [@turtles.raych.com](https://bsky.app/profile/turtles.raych.com).
 
-I have three red-eared slider turtles, all around 19 years old. I also keep two 20-gallon planted guppy tanks and share my home with a senior squad of dogs (down to one 😭😭😭). 
+I have three red-eared slider turtles, all around 20 years old. I also keep two 20-gallon planted guppy tanks and share my home with a senior squad of dogs (down to one 😭😭😭). 
 
 ---
 
