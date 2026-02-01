@@ -24,5 +24,4 @@ I have three red-eared slider turtles, all around 19 years old. I also keep two 
 
 - [Bluesky](https://bsky.app/profile/turtles.raych.com)
 - [YouTube](https://youtube.com/@turtle_cove_raych)
-- [TikTok](https://tiktok.com/@turtle_cove_raych)
 - [Twitch](https://www.twitch.tv/raych_com)
