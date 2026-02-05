@@ -7,9 +7,6 @@ read_time: false
 author_profile: false
 sidebar: false
 classes: wide
-header:
-  overlay_color: "#ff0000"
-  overlay_opacity: 1
 ---
 
 <!-- Logo -->
