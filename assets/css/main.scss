@@ -1,35 +1,23 @@
 ---
-# Only the main Sass file needs front matter (the dashes are required)
+# Only the main Sass file needs front matter
 ---
+
 @import "minimal-mistakes";
 
-.social-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  justify-content: center;
-  margin: 1.5rem 0 2rem;
+/* ------------------------
+   Page-specific background
+   ------------------------ */
+body.home-hub,
+body.home-hub .splash-wrapper,
+body.home-hub .splash-wrapper .splash-header,
+body.home-hub .page-inner {
+  background-color: #f0f0f5 !important;
+  min-height: 100vh;
 }
 
-.social-row .btn {
-  white-space: nowrap;
-}
-
-.social-row--icons i {
-  font-size: 1.2rem;
-}
-
-/* Light mode */
-.social-row--icons .social-icon-btn i {
-  color: #111;
-}
-
-/* Dark mode */
-html[data-theme="dark"] .social-row--icons .social-icon-btn i {
-  color: #f5f5f5;
-}
-
-/* Logo styling */
+/* ------------------------
+   Logo styling
+   ------------------------ */
 .logo-container {
   text-align: center;
   margin: 2rem 0;
@@ -40,12 +28,15 @@ html[data-theme="dark"] .social-row--icons .social-icon-btn i {
   height: auto;
 }
 
+/* ------------------------
+   Social icons row
+   ------------------------ */
 .social-row--icons {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin-top: 1rem;
+  margin: 1.5rem 0 2rem;
 }
 
 .social-icon-btn {
@@ -60,12 +51,22 @@ html[data-theme="dark"] .social-row--icons .social-icon-btn i {
   font-size: 1.2rem;
 }
 
-/* Only affects the homepage / hub page */
-body.home-hub,
-body.home-hub .wrapper,
-body.home-hub .page,
-body.home-hub .page-inner,
-body.home-hub .splash-wrapper {
-  background-color: #f0f0f5 !important; /* !important ensures override */
-  min-height: 100vh;
+.social-row--icons .social-icon-btn i {
+  font-size: 1.2rem;
+}
+
+/* Dark mode */
+html[data-theme="dark"] .social-row--icons .social-icon-btn i {
+  color: #f5f5f5;
+}
+
+/* ------------------------
+   Optional block links
+   ------------------------ */
+.linktree-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 300px;
+  margin: 0 auto 2rem;
 }
