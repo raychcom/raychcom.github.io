@@ -9,7 +9,7 @@ classes: wide
 ---
 
 <div class="logo-container" style="text-align: center; margin: 2rem 0;">
-  <img src="/assets/images/your-logo.png" alt="Raych logo" style="max-width: 200px; height: auto;">
+  <img src="/assets/images/raych.png" alt="Raych logo" style="max-width: 200px; height: auto;">
 </div>
 
 <div class="social-row social-row--icons">
