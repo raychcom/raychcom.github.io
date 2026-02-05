@@ -13,8 +13,6 @@ header:
 read_time: false
 # excerpt: "Curated soundtracks. Pet chaos. Digital experiments. By me, Raych 🐢"
 excerpt: "Domain names are like $15/year 🤷🏻‍♀️, so here we are."
-intro: 
-  - excerpt: 'Updates weekly. Expect playlists, pets, and projects — all from a data wrangler with a fish tank.'
 ---
 
 <!-- Welcome to **raych.com** — my little corner of the internet. Powered by music, curiosity, and caffeine. ©
