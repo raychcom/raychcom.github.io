@@ -15,6 +15,11 @@ body.home-hub .page-inner {
   min-height: 100vh;
 }
 
+/* Target the pseudo-element that is overlaying the page */
+body.home-hub .splash-wrapper .splash-header::before {
+  background-color: #f0f0f5 !important;
+}
+
 /* ------------------------
    Logo styling
    ------------------------ */
