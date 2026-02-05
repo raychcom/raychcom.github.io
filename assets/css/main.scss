@@ -7,12 +7,11 @@
 /* ------------------------
    Page-specific background
    ------------------------ */
-body.home-hub article.splash,
-body.home-hub .page__content {
+body.layout--splash.home-hub,
+body.layout--splash.home-hub article.splash,
+body.layout--splash.home-hub .page__content {
+  background-color: #f0f0f5 !important;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center; /* vertically center content */
 }
 
 /* ------------------------
