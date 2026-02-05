@@ -1,12 +1,13 @@
 ---
-title: Test
+# title: Test
 permalink: /test/
 layout: single
-body_classes: home-hub
+body_classes: "home-hub hide-nav"
 read_time: false
 author_profile: false
 sidebar: false
 hide_share: true
+hide_title: true
 classes: wide
 ---
 
