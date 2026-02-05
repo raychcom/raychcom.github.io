@@ -8,32 +8,12 @@ header:
 read_time: false
 ---
 
-## Where to find me
+<div class="linktree">
 
-{% include feature_row id="links" type="stacked" %}
+<a class="btn btn--primary btn--large btn--block" href="https://your-substack-link">Jams of the Week</a>
+<a class="btn btn--primary btn--large btn--block" href="/playlists/">Playlists</a>
+<a class="btn btn--primary btn--large btn--block" href="/photos/">Photos</a>
+<a class="btn btn--primary btn--large btn--block" href="https://bsky.app/profile/yourhandle">Bluesky</a>
 
-links:
-  - title: "Jams of the Week"
-    excerpt: "Weekly playlist + short writeups"
-    url: "https://your-substack-link"
-    btn_label: "Open"
-    btn_class: "btn--primary"
-
-  - title: "Playlists"
-    excerpt: "Spotify curation by mood + genre"
-    url: "/playlists/"
-    btn_label: "Browse"
-    btn_class: "btn--primary"
-
-  - title: "Photos"
-    excerpt: "Camera roll uploads"
-    url: "/photos/"
-    btn_label: "View"
-    btn_class: "btn--primary"
-
-  - title: "Bluesky"
-    excerpt: "Short thoughts + cultural commentary"
-    url: "https://bsky.app/profile/yourhandle"
-    btn_label: "Follow"
-    btn_class: "btn--primary"
+</div>
 
