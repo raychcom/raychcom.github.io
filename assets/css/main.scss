@@ -15,16 +15,6 @@
   white-space: nowrap;
 }
 
-.social-row--icons .social-icon-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 3rem;
-  height: 3rem;
-  padding: 0;
-  border-radius: 999px; /* circular buttons */
-}
-
 .social-row--icons i {
   font-size: 1.2rem;
 }
@@ -39,18 +29,43 @@ html[data-theme="dark"] .social-row--icons .social-icon-btn i {
   color: #f5f5f5;
 }
 
+/* Logo styling */
 .logo-container {
-  margin-bottom: 2rem;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.logo-container img {
+  max-width: 200px;
+  height: auto;
 }
 
 .social-row--icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
   margin-top: 1rem;
 }
 
+.social-icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 999px;
+  border: 1px solid #ddd;
+  color: #111; /* icon color */
+  font-size: 1.2rem;
+}
+
 /* Only affects the homepage / hub page */
+body.home-hub,
+body.home-hub .wrapper,
+body.home-hub .page,
+body.home-hub .page-inner,
 body.home-hub .splash-wrapper {
-  background-color: #000000; 
-  /* or use a gradient */
-  /* background: linear-gradient(135deg, #f0f0f5, #dfe1ff); */
+  background-color: #f0f0f5 !important; /* !important ensures override */
   min-height: 100vh;
 }
