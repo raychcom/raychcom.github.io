@@ -28,3 +28,13 @@
 .social-row--icons i {
   font-size: 1.2rem;
 }
+
+/* Light mode */
+.social-row--icons .social-icon-btn i {
+  color: #111;
+}
+
+/* Dark mode */
+html[data-theme="dark"] .social-row--icons .social-icon-btn i {
+  color: #f5f5f5;
+}
