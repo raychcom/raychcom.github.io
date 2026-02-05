@@ -6,6 +6,7 @@ read_time: false
 author_profile: false
 sidebar: false
 classes: wide
+body_classes: "home-hub"
 ---
 
 <div class="logo-container" style="text-align: center; margin: 2rem 0;">
