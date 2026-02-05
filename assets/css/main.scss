@@ -7,12 +7,14 @@
 /* ------------------------
    Page-specific background
    ------------------------ */
-body.layout--splash.home-hub,
-body.layout--splash.home-hub article.splash,
-body.layout--splash.home-hub .page__content {
-  background-color: #ff000 !important;
-  min-height: 100vh;
+
+/* Home-hub full-page background */
+body.home-hub,
+body.home-hub article.splash,
+body.home-hub .page__content {
+  background-color: #f0f0f5 !important;
 }
+
 
 /* ------------------------
    Logo styling
