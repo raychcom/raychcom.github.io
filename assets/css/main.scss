@@ -7,6 +7,7 @@
 /* ------------------------
    Page-specific background
    ------------------------ */
+/* Full-page background for this specific page */
 body.home-hub,
 body.home-hub .splash-wrapper,
 body.home-hub .splash-wrapper .splash-header,
@@ -15,9 +16,10 @@ body.home-hub .page-inner {
   min-height: 100vh;
 }
 
-/* Target the pseudo-element that is overlaying the page */
+/* Target the pseudo-element that overlays splash header */
 body.home-hub .splash-wrapper .splash-header::before {
-  background-color: #f0f0f5 !important;
+  background: #f0f0f5 !important; /* overrides theme gradient / image */
+  content: none;                   /* optional, ensures overlay doesn't interfere */
 }
 
 /* ------------------------
