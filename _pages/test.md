@@ -6,6 +6,10 @@ read_time: false
 author_profile: false
 sidebar: false
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.9"
+  overlay_image: /assets/images/about.jpg
 ---
 
 <div class="social-row social-row--icons">
