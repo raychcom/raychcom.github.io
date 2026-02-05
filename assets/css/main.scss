@@ -1,0 +1,11 @@
+.social-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin: 1.5rem 0 2rem;
+}
+
+.social-row .btn {
+  white-space: nowrap;
+}
