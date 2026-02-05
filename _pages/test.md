@@ -15,10 +15,13 @@ classes: wide
 <a class="btn btn--light-outline btn--large" href="https://byraych.substack.com/" target="_blank">Substack</a>
 </div> -->
 
-<div class="social-row">
+<div class="social-row social-row--icons">
   {% for link in site.author.links %}
-    <a class="btn btn--light-outline btn--large" href="{{ link.url }}" target="_blank">
-      {{ link.label }}
+    <a class="btn btn--light-outline btn--large social-icon-btn"
+       href="{{ link.url }}"
+       target="_blank"
+       aria-label="{{ link.label }}">
+      <i class="{{ link.icon }}" aria-hidden="true"></i>
     </a>
   {% endfor %}
 </div>
