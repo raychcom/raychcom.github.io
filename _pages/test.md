@@ -2,7 +2,7 @@
 # title: Test
 permalink: /test/
 layout: single
-body_classes: "home-hub hide-nav"
+body_classes: home-hub hide-nav
 read_time: false
 author_profile: false
 sidebar: false
