@@ -6,6 +6,7 @@ body_classes: home-hub
 read_time: false
 author_profile: false
 sidebar: false
+hide_share: true
 classes: wide
 ---
 
