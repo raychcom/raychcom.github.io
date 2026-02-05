@@ -8,23 +8,39 @@ sidebar: false
 classes: wide
 ---
 
-<!-- <div class="social-row">
-<a class="btn btn--light-outline btn--large" href="https://github.com/raychcom" target="_blank">GitHub</a>
-<a class="btn btn--light-outline btn--large" href="https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay" target="_blank">Spotify</a>
-<a class="btn btn--light-outline btn--large" href="https://bsky.app/profile/raych.com" target="_blank">Bluesky</a>
-<a class="btn btn--light-outline btn--large" href="https://byraych.substack.com/" target="_blank">Substack</a>
-</div> -->
-
 <div class="social-row social-row--icons">
-  {% for link in site.author.links %}
-    <a class="btn btn--light-outline btn--large social-icon-btn"
-       href="{{ link.url }}"
-       target="_blank"
-       aria-label="{{ link.label }}">
-      <i class="{{ link.icon }}" aria-hidden="true"></i>
-    </a>
-  {% endfor %}
+
+  <a class="btn btn--light-outline btn--large social-icon-btn"
+     href="https://github.com/raychcom"
+     target="_blank"
+     aria-label="GitHub">
+    <i class="fab fa-github" aria-hidden="true"></i>
+  </a>
+
+  <a class="btn btn--light-outline btn--large social-icon-btn"
+     href="https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay"
+     target="_blank"
+     aria-label="Spotify">
+    <i class="fab fa-spotify" aria-hidden="true"></i>
+  </a>
+
+  <a class="btn btn--light-outline btn--large social-icon-btn"
+     href="https://bsky.app/profile/raych.com"
+     target="_blank"
+     aria-label="Bluesky">
+    <!-- Font Awesome doesn't have Bluesky yet -->
+    <i class="fas fa-cloud" aria-hidden="true"></i>
+  </a>
+
+  <a class="btn btn--light-outline btn--large social-icon-btn"
+     href="https://byraych.substack.com/"
+     target="_blank"
+     aria-label="Substack">
+    <i class="fas fa-newspaper" aria-hidden="true"></i>
+  </a>
+
 </div>
+
 
 
 <br>
