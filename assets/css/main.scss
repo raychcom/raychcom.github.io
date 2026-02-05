@@ -46,3 +46,10 @@ html[data-theme="dark"] .social-row--icons .social-icon-btn i {
 .social-row--icons {
   margin-top: 1rem;
 }
+
+/* Only affects the homepage / hub page */
+body.home-hub {
+  background-color: #000000; 
+  /* or use a gradient */
+  /* background: linear-gradient(135deg, #f0f0f5, #dfe1ff); */
+}
