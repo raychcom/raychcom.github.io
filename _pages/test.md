@@ -6,7 +6,8 @@ body_classes: home-hub hide-nav
 read_time: false
 author_profile: false
 sidebar: false
-hide_share: true
+# hide_share: true
+share: false
 hide_title: true
 classes: wide
 ---
