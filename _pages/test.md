@@ -2,11 +2,11 @@
 title: Test
 permalink: /test/
 layout: splash
+body_classes: "home-hub"
 read_time: false
 author_profile: false
 sidebar: false
 classes: wide
-body_classes: "home-hub"
 ---
 
 <!-- Logo -->
