@@ -1,8 +1,8 @@
 ---
 title: Test
 permalink: /test/
-layout: none
-body_classes: "home-hub"
+layout: single
+body_classes: home-hub
 read_time: false
 author_profile: false
 sidebar: false
