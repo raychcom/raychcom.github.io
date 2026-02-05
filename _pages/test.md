@@ -6,11 +6,11 @@ read_time: false
 author_profile: false
 sidebar: false
 classes: wide
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.9"
-  overlay_image: /assets/images/about.jpg
 ---
+
+<div class="logo-container" style="text-align: center; margin: 2rem 0;">
+  <img src="/assets/images/your-logo.png" alt="Raych logo" style="max-width: 200px; height: auto;">
+</div>
 
 <div class="social-row social-row--icons">
 
