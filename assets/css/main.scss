@@ -52,6 +52,7 @@ body.home-hub,
 body.home-hub .wrapper,
 body.home-hub .page {
   background-color: #000000; 
+  min-height: 100vh;
   /* or use a gradient */
   /* background: linear-gradient(135deg, #f0f0f5, #dfe1ff); */
 }
