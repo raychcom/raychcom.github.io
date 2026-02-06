@@ -121,3 +121,20 @@ body.home-hub .home-hub__text a {
   color: #ffffff !important;
 }
 
+/* Hub text color override */
+body.home-hub .home-hub__text,
+body.home-hub .home-hub__text p,
+body.home-hub .home-hub__text strong,
+body.home-hub .home-hub__text em,
+body.home-hub .home-hub__text a {
+  color: #ffffff !important; /* force white */
+}
+
+body.home-hub .home-hub__text a {
+  color: #cfe6ff !important; /* slightly tinted links */
+}
+
+body.home-hub .home-hub__text a:hover {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
