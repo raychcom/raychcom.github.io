@@ -1,8 +1,7 @@
 ---
-# title: Test
 permalink: /test/
 layout: single
-body_classes: home-hub hide-nav hamburger-only
+body_classes: hide-nav
 read_time: false
 author_profile: false
 sidebar: false
