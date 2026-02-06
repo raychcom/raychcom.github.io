@@ -17,6 +17,20 @@
   border-radius: 16px;
 }
 
+/* Remove extra top padding on hub page */
+body.home-hub .initial-content {
+  padding-top: 0 !important;
+}
+
+body.home-hub #main {
+  margin-top: 0 !important;
+}
+
+body.home-hub .page__content {
+  padding-top: 1rem !important; /* tweak this number */
+}
+
+
 /* =========================================================
    Logo
    ========================================================= */
