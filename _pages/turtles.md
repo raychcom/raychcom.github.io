@@ -16,7 +16,7 @@ classes: wide
 
   <!-- Logo -->
   <div class="logo-container">
-    <img src="/assets/images/raych.png" alt="Raych logo">
+    <img src="/assets/images/turtle_logo.png" alt="Raych's Turtle Cove logo">
   </div>
 
   <!-- Social icons row -->
