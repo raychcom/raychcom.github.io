@@ -1,7 +1,8 @@
 ---
 # title: Test
 permalink: /test/
-layout: single
+# layout: single
+layout: splash
 body_classes: home-hub hide-nav hamburger-only
 read_time: false
 author_profile: false
@@ -10,6 +11,8 @@ sidebar: false
 share: false
 hide_title: true
 classes: wide
+header:
+  overlay_image: ""
 ---
 
 <!-- Full-page container -->
