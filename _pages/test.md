@@ -1,13 +1,11 @@
 ---
 # title: Test
 permalink: /test/
-# layout: single
-layout: splash
+layout: single
 body_classes: home-hub hide-nav hamburger-only
 read_time: false
 author_profile: false
 sidebar: false
-# hide_share: true
 share: false
 hide_title: true
 classes: wide
