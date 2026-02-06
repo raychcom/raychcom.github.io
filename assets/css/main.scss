@@ -61,3 +61,18 @@
 body.hide-nav .masthead {
   display: none;
 }
+
+/* Hide visible nav links on this page */
+body.hamburger-only .masthead .visible-links {
+  display: none !important;
+}
+
+/* Always show the hamburger toggle */
+body.hamburger-only .masthead .greedy-nav__toggle {
+  display: block !important;
+}
+
+/* Optional: tighten up spacing since links are hidden */
+body.hamburger-only .masthead__menu {
+  justify-content: flex-end;
+}
