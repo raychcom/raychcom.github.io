@@ -51,7 +51,7 @@ classes: wide
     Shorts (Bluesky)
   </a>
 
-  <a class="btn btn--primary btn--large btn--block" href="http://linktr.ee/turtle_cove_raych" target="_blank" rel="noopener">
+  <a class="btn btn--primary btn--large btn--block" href="/turtles/" target="_blank" rel="noopener">
     Turtles
   </a>
 
