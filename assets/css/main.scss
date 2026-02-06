@@ -76,3 +76,8 @@ body.hamburger-only .masthead .greedy-nav__toggle {
 body.hamburger-only .masthead__menu {
   justify-content: flex-end;
 }
+
+body.hamburger-only .masthead {
+  background: transparent;
+  box-shadow: none;
+}
