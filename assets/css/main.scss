@@ -111,3 +111,13 @@ body.home-hub .home-hub__text a:hover {
 body.hide-nav .masthead {
   display: none;
 }
+
+/* Force hub text to true white */
+body.home-hub .home-hub__text,
+body.home-hub .home-hub__text p,
+body.home-hub .home-hub__text strong,
+body.home-hub .home-hub__text em,
+body.home-hub .home-hub__text a {
+  color: #ffffff !important;
+}
+
