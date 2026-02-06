@@ -70,6 +70,29 @@ body.home-hub .page__content {
   background-color: #222;
 }
 
+/* Hub text styling */
+body.home-hub .home-hub__text {
+  max-width: 520px;
+  margin-top: 2rem;
+  color: #eee;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+body.home-hub .home-hub__text p {
+  margin-bottom: 1rem;
+}
+
+body.home-hub .home-hub__text a {
+  color: #9ad1ff;
+  text-decoration: underline;
+}
+
+body.home-hub .home-hub__text a:hover {
+  color: #cfe6ff;
+}
+
+
 /* =========================================================
    Linktree buttons
    ========================================================= */
