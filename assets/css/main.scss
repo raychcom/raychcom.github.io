@@ -4,37 +4,24 @@
 @import "minimal-mistakes";
 
 /* =========================================================
-   Full-page hub styling
+   Hub container (safe mode)
    ========================================================= */
 
-body.home-hub {
-  background-color: #000000;
-  min-height: 100vh;
-}
-
-/* Make the main content area transparent so body bg shows */
-body.home-hub #main,
-body.home-hub .page,
-body.home-hub .page__inner-wrap,
-body.home-hub .page__content {
-  background: transparent !important;
-}
-
-/* Center your hub content nicely */
-body.home-hub .page__content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-height: calc(100vh - 4rem); /* account for masthead height */
+.home-hub {
+  max-width: 420px;
+  margin: 4rem auto;
+  padding: 2.5rem 2rem;
   text-align: center;
+
+  background: #000;
+  border-radius: 16px;
 }
 
 /* =========================================================
    Logo
    ========================================================= */
 
-body.home-hub .logo-container img {
+.home-hub .logo-container img {
   max-width: 200px;
   height: auto;
   margin-bottom: 2rem;
@@ -44,7 +31,7 @@ body.home-hub .logo-container img {
    Social icons row
    ========================================================= */
 
-body.home-hub .social-row--icons {
+.home-hub .social-row--icons {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -52,20 +39,20 @@ body.home-hub .social-row--icons {
   margin-bottom: 2rem;
 }
 
-body.home-hub .social-icon-btn {
+.home-hub .social-icon-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   width: 3rem;
   height: 3rem;
   border-radius: 999px;
-  border: 1px solid #ddd;
-  color: #fff; /* icon color */
+  border: 1px solid #555;
+  color: #fff;
   font-size: 1.5rem;
   transition: all 0.2s ease;
 }
 
-body.home-hub .social-icon-btn:hover {
+.home-hub .social-icon-btn:hover {
   background-color: #222;
 }
 
@@ -73,54 +60,17 @@ body.home-hub .social-icon-btn:hover {
    Linktree buttons
    ========================================================= */
 
-body.home-hub .linktree-links {
+.home-hub .linktree-links {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
-  max-width: 300px;
   width: 100%;
 }
 
 /* =========================================================
-   Nav control
+   Hide nav on this page
    ========================================================= */
 
-/* Hide entire nav if desired */
 body.hide-nav .masthead {
   display: none;
-}
-
-/* Hide visible nav links */
-body.hamburger-only .masthead .visible-links {
-  display: none !important;
-}
-
-/* Always show hamburger */
-body.hamburger-only .masthead .greedy-nav__toggle {
-  display: block !important;
-}
-
-/* Remove masthead styling */
-body.hamburger-only .masthead {
-  background: transparent !important;
-  box-shadow: none !important;
-}
-
-/* =========================================================
-   Move hamburger to LEFT
-   ========================================================= */
-
-body.hamburger-only .masthead .greedy-nav {
-  justify-content: space-between;
-}
-
-body.hamburger-only .masthead .greedy-nav__toggle {
-  order: -1;
-  margin-right: 0.75rem;
-  margin-left: 0;
-}
-
-/* Optional: keep logo next to hamburger */
-body.hamburger-only .masthead .site-title {
-  margin-right: auto;
 }
