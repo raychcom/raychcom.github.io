@@ -15,7 +15,7 @@ classes: wide
 <div class="home-hub">
   <!-- Logo -->
   <div class="logo-container">
-    <img src="/assets/images/raych.png" alt="Raych logo">
+    <img src="/assets/images/turtle_logo.png" alt="Raych's Turtle Cove logo">
   </div>
 
   <!-- Social icons row -->
@@ -42,7 +42,6 @@ classes: wide
     <a class="btn btn--primary btn--large btn--block" href="https://www.twitch.tv/raych_com" target="_blank" rel="noopener">
       Co-working w/ Guppies Livestream
     </a>
-
     <a class="btn btn--primary btn--large btn--block" href="https://open.spotify.com/playlist/1YebIW7to2BOfzAQ6pAuND?si=918242d231514491" target="_blank" rel="noopener">
       Playlists
     </a>
