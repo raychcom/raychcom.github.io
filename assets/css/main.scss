@@ -55,4 +55,72 @@ body.home-hub .social-row--icons {
 body.home-hub .social-icon-btn {
   display: inline-flex;
   align-items: center;
-  ju
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 999px;
+  border: 1px solid #ddd;
+  color: #fff; /* icon color */
+  font-size: 1.5rem;
+  transition: all 0.2s ease;
+}
+
+body.home-hub .social-icon-btn:hover {
+  background-color: #222;
+}
+
+/* =========================================================
+   Linktree buttons
+   ========================================================= */
+
+body.home-hub .linktree-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 300px;
+  width: 100%;
+}
+
+/* =========================================================
+   Nav control
+   ========================================================= */
+
+/* Hide entire nav if desired */
+body.hide-nav .masthead {
+  display: none;
+}
+
+/* Hide visible nav links */
+body.hamburger-only .masthead .visible-links {
+  display: none !important;
+}
+
+/* Always show hamburger */
+body.hamburger-only .masthead .greedy-nav__toggle {
+  display: block !important;
+}
+
+/* Remove masthead styling */
+body.hamburger-only .masthead {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+/* =========================================================
+   Move hamburger to LEFT
+   ========================================================= */
+
+body.hamburger-only .masthead .greedy-nav {
+  justify-content: space-between;
+}
+
+body.hamburger-only .masthead .greedy-nav__toggle {
+  order: -1;
+  margin-right: 0.75rem;
+  margin-left: 0;
+}
+
+/* Optional: keep logo next to hamburger */
+body.hamburger-only .masthead .site-title {
+  margin-right: auto;
+}
