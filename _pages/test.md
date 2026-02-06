@@ -18,28 +18,52 @@ classes: wide
     <img src="/assets/images/raych.png" alt="Raych logo">
   </div>
 
-  <!-- Social icons row -->
-  <div class="social-row social-row--icons">
-    <a class="social-icon-btn" href="https://github.com/raychcom" target="_blank" aria-label="GitHub">
-      <i class="fab fa-github"></i>
-    </a>
-    <a class="social-icon-btn" href="https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay" target="_blank" aria-label="Spotify">
-      <i class="fab fa-spotify"></i>
-    </a>
-    <a class="social-icon-btn" href="https://bsky.app/profile/raych.com" target="_blank" aria-label="Bluesky">
-      <i class="fas fa-cloud"></i>
-    </a>
-    <a class="social-icon-btn" href="https://byraych.substack.com/" target="_blank" aria-label="Substack">
-      <i class="fas fa-newspaper"></i>
-    </a>
-  </div>
+<!-- Social icons row -->
+<div class="social-row social-row--icons">
+  <a class="social-icon-btn" href="https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay" target="_blank" rel="noopener" aria-label="Spotify">
+    <i class="fab fa-spotify"></i>
+  </a>
 
-  <!-- Linktree buttons -->
-  <div class="linktree-links">
-    <a class="btn btn--primary btn--large btn--block" href="https://byraych.substack.com/">Jams of the Week</a>
-    <a class="btn btn--primary btn--large btn--block" href="/playlists/">Playlists</a>
-    <a class="btn btn--primary btn--large btn--block" href="/photos/">Photos</a>
-    <a class="btn btn--primary btn--large btn--block" href="https://bsky.app/profile/raych.com">Bluesky</a>
-  </div>
+  <a class="social-icon-btn" href="https://bsky.app/profile/raych.com" target="_blank" rel="noopener" aria-label="Bluesky">
+    <i class="fa-brands fa-bluesky"></i>
+  </a>
+
+  <a class="social-icon-btn" href="https://youtube.com/@raych_com" target="_blank" rel="noopener" aria-label="YouTube">
+    <i class="fab fa-youtube"></i>
+  </a>
+
+  <a class="social-icon-btn" href="https://www.twitch.tv/raych_com" target="_blank" rel="noopener" aria-label="Twitch">
+    <i class="fab fa-twitch"></i>
+  </a>
+
+  <a class="social-icon-btn" href="https://byraych.substack.com/" target="_blank" rel="noopener" aria-label="Substack">
+    <i class="fas fa-newspaper"></i>
+  </a>
+</div>
+
+
+<!-- Linktree buttons -->
+<div class="linktree-links">
+  <a class="btn btn--primary btn--large btn--block" href="https://bsky.app/profile/photos.raych.com" target="_blank" rel="noopener">
+    Photos (Bluesky)
+  </a>
+
+  <a class="btn btn--primary btn--large btn--block" href="https://bsky.app/profile/shorts.raych.com" target="_blank" rel="noopener">
+    Shorts (Bluesky)
+  </a>
+
+  <a class="btn btn--primary btn--large btn--block" href="http://linktr.ee/turtle_cove_raych" target="_blank" rel="noopener">
+    Turtles
+  </a>
+
+  <a class="btn btn--primary btn--large btn--block" href="https://www.twitch.tv/raych_com" target="_blank" rel="noopener">
+    Co-working w/ Guppies Livestream
+  </a>
+
+  <a class="btn btn--primary btn--large btn--block" href="https://open.spotify.com/playlist/4PqkabW4RTD3BxMaKsye3L" target="_blank" rel="noopener">
+    Jams of the Week
+  </a>
+</div>
+
 
 </div>
