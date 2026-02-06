@@ -1,30 +1,50 @@
 ---
 # Only the main Sass file needs front matter
 ---
-
 @import "minimal-mistakes";
 
-/* Full-page hub styling */
-.home-hub {
+/* =========================================================
+   Full-page hub styling
+   ========================================================= */
+
+body.home-hub {
   background-color: #000000;
   min-height: 100vh;
+}
+
+/* Make the main content area transparent so body bg shows */
+body.home-hub #main,
+body.home-hub .page,
+body.home-hub .page__inner-wrap,
+body.home-hub .page__content {
+  background: transparent !important;
+}
+
+/* Center your hub content nicely */
+body.home-hub .page__content {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  // padding: 2rem;
+  min-height: calc(100vh - 4rem); /* account for masthead height */
   text-align: center;
 }
 
-/* Logo */
-.home-hub .logo-container img {
+/* =========================================================
+   Logo
+   ========================================================= */
+
+body.home-hub .logo-container img {
   max-width: 200px;
   height: auto;
   margin-bottom: 2rem;
 }
 
-/* Social icons row */
-.home-hub .social-row--icons {
+/* =========================================================
+   Social icons row
+   ========================================================= */
+
+body.home-hub .social-row--icons {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -32,52 +52,7 @@
   margin-bottom: 2rem;
 }
 
-.home-hub .social-icon-btn {
+body.home-hub .social-icon-btn {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  width: 3rem;
-  height: 3rem;
-  border-radius: 999px;
-  border: 1px solid #ddd;
-  color: #111;
-  font-size: 1.5rem;
-  transition: all 0.2s ease;
-}
-
-.home-hub .social-icon-btn:hover {
-  background-color: #ddd;
-}
-
-/* Linktree buttons */
-.home-hub .linktree-links {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-  max-width: 300px;
-  width: 100%;
-}
-
-body.hide-nav .masthead {
-  display: none;
-}
-
-/* Hide visible nav links on this page */
-body.hamburger-only .masthead .visible-links {
-  display: none !important;
-}
-
-/* Always show the hamburger toggle */
-body.hamburger-only .masthead .greedy-nav__toggle {
-  display: block !important;
-}
-
-/* Optional: tighten up spacing since links are hidden */
-body.hamburger-only .masthead__menu {
-  justify-content: flex-end;
-}
-
-body.hamburger-only .masthead {
-  background: transparent;
-  box-shadow: none;
-}
+  ju
