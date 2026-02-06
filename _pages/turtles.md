@@ -29,7 +29,7 @@ classes: wide
       <i class="fab fa-youtube"></i>
     </a>
 
-    <a class="social-icon-btn" href="https://open.spotify.com/playlist/1YebIW7to2BOfzAQ6pAuND?si=918242d231514491" target="_blank" rel="noopener" aria-label="Spotify">
+    <a class="social-icon-btn" href="https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay" target="_blank" rel="noopener" aria-label="Spotify">
       <i class="fab fa-spotify"></i>
     </a>
 
@@ -44,7 +44,7 @@ classes: wide
       Co-working w/ Guppies Livestream
     </a>
 
-    <a class="btn btn--primary btn--large btn--block" href="https://open.spotify.com/playlist/1YebIW7to2BOfzAQ6pAuND?si=918242d231514491" target="_blank" rel="noopener">
+    <a class="btn btn--primary btn--large btn--block" href="https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay" target="_blank" rel="noopener">
       Playlists
     </a>
   </div>
