@@ -21,12 +21,32 @@ classes: wide
 
   <!-- Social icons row -->
   <div class="social-row social-row--icons">
-    ... your social icons ...
+    <a class="social-icon-btn" href="https://bsky.app/profile/turtles.raych.com" target="_blank" rel="noopener" aria-label="Bluesky">
+      <i class="fa-brands fa-bluesky"></i>
+    </a>
+
+    <a class="social-icon-btn" href="https://youtube.com/@turtle_cove_raych" target="_blank" rel="noopener" aria-label="YouTube">
+      <i class="fab fa-youtube"></i>
+    </a>
+
+    <a class="social-icon-btn" href="https://open.spotify.com/playlist/1YebIW7to2BOfzAQ6pAuND?si=918242d231514491" target="_blank" rel="noopener" aria-label="Spotify">
+      <i class="fab fa-spotify"></i>
+    </a>
+
+    <a class="social-icon-btn" href="https://www.twitch.tv/raych_com" target="_blank" rel="noopener" aria-label="Twitch">
+      <i class="fab fa-twitch"></i>
+    </a>
   </div>
 
   <!-- Linktree buttons -->
   <div class="linktree-links">
-    ... your buttons ...
+    <a class="btn btn--primary btn--large btn--block" href="https://www.twitch.tv/raych_com" target="_blank" rel="noopener">
+      Co-working w/ Guppies Livestream
+    </a>
+
+    <a class="btn btn--primary btn--large btn--block" href="https://open.spotify.com/playlist/1YebIW7to2BOfzAQ6pAuND?si=918242d231514491" target="_blank" rel="noopener">
+      Playlists
+    </a>
   </div>
 
   <!-- Hub text -->
