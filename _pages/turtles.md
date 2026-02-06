@@ -1,5 +1,5 @@
 ---
-title: Turtles (and other pets)
+title: " "
 permalink: /turtles/
 layout: single
 body_classes: home-hub hide-nav
