@@ -4,21 +4,24 @@
 @import "minimal-mistakes";
 
 /* =========================================================
-   Hub container (safe mode)
+   Hub container
    ========================================================= */
 
 .home-hub {
   max-width: 420px;
-  margin: 4rem auto;
+  margin: 2rem auto; /* reduce top space */
   padding: 2.5rem 2rem;
   text-align: center;
-
   background: #000;
   border-radius: 16px;
 }
 
-/* Remove extra top padding on hub page */
+/* Optional: vertically center hub content */
 body.home-hub .initial-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
   padding-top: 0 !important;
 }
 
@@ -27,9 +30,8 @@ body.home-hub #main {
 }
 
 body.home-hub .page__content {
-  padding-top: 0 !important; /* tweak this number */
+  padding-top: 0 !important;
 }
-
 
 /* =========================================================
    Logo
@@ -70,29 +72,6 @@ body.home-hub .page__content {
   background-color: #222;
 }
 
-/* Hub text styling */
-body.home-hub .home-hub__text {
-  max-width: 520px;
-  margin-top: 2rem;
-  color: #ffffff !important;
-  line-height: 1.6;
-  font-size: 0.95rem;
-}
-
-body.home-hub .home-hub__text p {
-  margin-bottom: 1rem;
-}
-
-body.home-hub .home-hub__text a {
-  color: #9ad1ff;
-  text-decoration: underline;
-}
-
-body.home-hub .home-hub__text a:hover {
-  color: #cfe6ff;
-}
-
-
 /* =========================================================
    Linktree buttons
    ========================================================= */
@@ -105,36 +84,34 @@ body.home-hub .home-hub__text a:hover {
 }
 
 /* =========================================================
+   Hub text styling
+   ========================================================= */
+
+.home-hub__text {
+  max-width: 520px;
+  margin-top: 2rem;
+  color: #ffffff !important;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.home-hub__text p {
+  margin-bottom: 1rem;
+}
+
+.home-hub__text a {
+  color: #cfe6ff !important;
+  text-decoration: underline;
+}
+
+.home-hub__text a:hover {
+  color: #ffffff !important;
+}
+
+/* =========================================================
    Hide nav on this page
    ========================================================= */
 
 body.hide-nav .masthead {
   display: none;
-}
-
-/* Force hub text to true white */
-body.home-hub .home-hub__text,
-body.home-hub .home-hub__text p,
-body.home-hub .home-hub__text strong,
-body.home-hub .home-hub__text em,
-body.home-hub .home-hub__text a {
-  color: #ffffff !important;
-}
-
-/* Hub text color override */
-body.home-hub .home-hub__text,
-body.home-hub .home-hub__text p,
-body.home-hub .home-hub__text strong,
-body.home-hub .home-hub__text em,
-body.home-hub .home-hub__text a {
-  color: #ffffff !important; /* force white */
-}
-
-body.home-hub .home-hub__text a {
-  color: #cfe6ff !important; /* slightly tinted links */
-}
-
-body.home-hub .home-hub__text a:hover {
-  color: #ffffff !important;
-  text-decoration: underline;
 }
