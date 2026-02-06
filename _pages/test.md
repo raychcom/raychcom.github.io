@@ -11,8 +11,6 @@ sidebar: false
 share: false
 hide_title: true
 classes: wide
-header:
-  overlay_image: ""
 ---
 
 <!-- Full-page container -->
