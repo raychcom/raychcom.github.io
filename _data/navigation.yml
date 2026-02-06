@@ -5,17 +5,17 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Home"
-    url: /
-  - title: "Makes"
-    url: /makes
-  - title: "Playlists"
-    url: /playlists/
+  # - title: "Home"
+  #   url: /
   - title: "Turtles"
     url: /turtles/
+  - title: "Playlists"
+    url: /playlists
+  - title: "Makes"
+    url: /makes/
   - title: "About"
     url: /about/
   # - title: "Work"
   #   url: /work/
-  - title: "Newsletter"
-    url: https://byraych.substack.com/
+  # - title: "Newsletter"
+  #   url: https://byraych.substack.com/
