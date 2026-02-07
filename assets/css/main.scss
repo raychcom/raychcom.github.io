@@ -4,13 +4,30 @@
 @import "minimal-mistakes";
 
 /* =========================================================
+   Force all page wrappers full-width and center hub
+   ========================================================= */
+
+body.home-hub .page,
+body.home-hub .page__inner-wrap,
+body.home-hub .page__content {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  float: none !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+
+/* =========================================================
    Hub container – responsive width
    ========================================================= */
 
 .home-hub {
   width: 100%;
-  max-width: 720px;
-  margin: 0 auto; /* center horizontally */
+  max-width: 720px;        /* desktop max width */
+  margin: 0 auto;          /* horizontal centering */
   padding: 2.5rem 2rem;
   text-align: center;
 
@@ -19,29 +36,13 @@
 }
 
 /* =========================================================
-   Override Minimal Mistakes page wrappers
-   ========================================================= */
-
-body.home-hub .page,
-body.home-hub .page__inner-wrap,
-body.home-hub .page__content {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-
-  display: flex;
-  justify-content: center;
-}
-
-/* =========================================================
-   Vertically center content
+   Vertical centering
    ========================================================= */
 
 body.home-hub .initial-content {
   display: flex;
   justify-content: center;
+  align-items: center;
   min-height: 100vh;
   padding-top: 0 !important;
 }
