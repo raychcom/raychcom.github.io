@@ -4,16 +4,40 @@
 @import "minimal-mistakes";
 
 /* =========================================================
-   Hub container
+   Hub container – responsive width
    ========================================================= */
 
 .home-hub {
-  max-width: 420px;
-  /* margin: 2rem auto; */ /* reduce top space */
+  width: 100%;
+  max-width: 420px;        /* mobile default */
+  margin: 3rem auto;
   padding: 2.5rem 2rem;
   text-align: center;
+
   background: #000;
   border-radius: 16px;
+}
+
+/* Tablet */
+@media (min-width: 640px) {
+  .home-hub {
+    max-width: 520px;
+    padding: 3rem 2.5rem;
+  }
+}
+
+/* Small desktop */
+@media (min-width: 900px) {
+  .home-hub {
+    max-width: 640px;
+  }
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+  .home-hub {
+    max-width: 720px;
+  }
 }
 
 /* Optional: vertically center hub content */
