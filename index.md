@@ -64,5 +64,11 @@ classes: wide
   </a>
 </div>
 
+Domain names are like $15/year 🤷🏻‍♀️, so here we are.
+
+Weekly music picks. Personal projects. Stuff. 
+
+I’m a tech-y gal who listens to too much music and mostly hangs with my ~~fiancée~~ wife and pets. <br/>
+<br/>
 
 </div>
