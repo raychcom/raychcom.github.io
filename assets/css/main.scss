@@ -4,8 +4,17 @@
 @import "minimal-mistakes";
 
 /* =========================================================
-   Force all page wrappers full-width and center hub
+   Full-page hub override for true centering
    ========================================================= */
+
+body.home-hub {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  min-height: 100vh !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
 
 body.home-hub .page,
 body.home-hub .page__inner-wrap,
@@ -13,38 +22,24 @@ body.home-hub .page__content {
   width: 100% !important;
   max-width: 100% !important;
   margin: 0 !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+  padding: 0 !important;
   float: none !important;
   display: flex !important;
   justify-content: center !important;
+  align-items: center !important;
 }
 
 /* =========================================================
-   Hub container – responsive width
+   Hub container
    ========================================================= */
 
 .home-hub {
-  width: 100%;
-  max-width: 720px;        /* desktop max width */
-  margin: 0 auto;          /* horizontal centering */
-  padding: 2.5rem 2rem;
-  text-align: center;
-
+  width: 90%;
+  max-width: 720px;
   background: #000;
   border-radius: 16px;
-}
-
-/* =========================================================
-   Vertical centering
-   ========================================================= */
-
-body.home-hub .initial-content {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  padding-top: 0 !important;
+  padding: 2.5rem 2rem;
+  text-align: center;
 }
 
 /* =========================================================
@@ -98,7 +93,7 @@ body.home-hub .initial-content {
 }
 
 /* =========================================================
-   Hub text styling
+   Hub text
    ========================================================= */
 
 .home-hub__text {
@@ -123,9 +118,9 @@ body.home-hub .initial-content {
 }
 
 /* =========================================================
-   Hide nav on this page
+   Hide nav
    ========================================================= */
 
 body.hide-nav .masthead {
-  display: none;
+  display: none !important;
 }
