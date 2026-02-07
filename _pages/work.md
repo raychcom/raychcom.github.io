@@ -1,24 +1,40 @@
 ---
-title: Work
+title: " "
 permalink: /work/
-layout: splash
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/work.jpg
-  actions:
-    - label: "GitHub"
-      url: "https://github.com/raychcom"
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/rsprague"
+layout: single
+body_classes: home-hub hide-nav
 read_time: false
+author_profile: false
+sidebar: false
+share: false
+hide_title: true
+classes: wide
 ---
-Hi, I’m Rachel Sprague, aka Raych.
 
-I’m a Senior Data Analyst by title, but most of my day-to-day leans heavily into analytics engineering: building scalable data models with dbt and optimizing pipelines.
+<!-- Full-page container -->
+<div class="home-hub">
 
-Lately, I’ve been focused on AI-forward analytics—finding ways to integrate modern tooling and automation into real-world workflows.
+  <!-- Logo -->
+  <div class="logo-container">
+    <img src="/assets/images/3029762.png" alt="Rachel Sprague logo">
+  </div>
 
-I work mostly in SQL and am experienced with tools like dbt, Snowflake, and Git. I care about clean code, useful metrics, and bridging the gap between data and decisions.
+  <!-- Social icons row -->
+  <div class="social-row social-row--icons">
+    <a class="social-icon-btn" href="https://github.com/raychcom" target="_blank" rel="noopener" aria-label="Bluesky">
+      <i class="fa-brands fa-github"></i>
+    </a>
+  </div>
 
-This page will grow over time. Expect writeups, side projects, and experiments. In the meantime, check out my [GitHub](https://github.com/raychcom) -- this site lives there (built with [Jekyll](https://jekyllrb.com/) + [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/)). You can also find me on [LinkedIn](https://www.linkedin.com/in/rsprague).
+  <!-- Hub text -->
+  <div class="home-hub__text">
+    <p>Hi, I’m Rachel Sprague, aka Raych.</p>
+
+    <p>I’m a Senior Data Analyst by title, but most of my day-to-day leans heavily into analytics engineering: building scalable data models with dbt and optimizing pipelines.</p>
+
+  <p>Lately, I’ve been focused on AI-forward analytics—finding ways to integrate modern tooling and automation into real-world workflows.</p>
+
+  <p>I work mostly in SQL and am experienced with tools like dbt, Snowflake, and Git. I care about clean code, useful metrics, and bridging the gap between data and decisions.</p>
+  </div>
+
+</div>
