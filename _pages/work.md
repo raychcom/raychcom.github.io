@@ -35,6 +35,8 @@ classes: wide
   <p>Lately, I’ve been focused on AI-forward analytics—finding ways to integrate modern tooling and automation into real-world workflows.</p>
 
   <p>I work mostly in SQL and am experienced with tools like dbt, Snowflake, and Git. I care about clean code, useful metrics, and bridging the gap between data and decisions.</p>
+
+  <p>This site lives on [GitHub](https://github.com/raychcom). Built with [Jekyll](https://jekyllrb.com/) + [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/)).</p>
   </div>
 
 </div>
