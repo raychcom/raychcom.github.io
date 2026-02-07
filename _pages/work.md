@@ -31,7 +31,7 @@ classes: wide
 
   <!-- Selected Work -->
   <div class="linktree-section">
-    <h2 class="linktree-section__title">Selected Work</h2>
+    <h2 class="linktree-section__title">Projects</h2>
     <div class="linktree-links">
       <a class="btn btn--primary btn--large btn--block" href="https://github.com/raychcom/raychcom.github.io" target="_blank" rel="noopener">
         Personal Site (GitHub Pages Repo)
