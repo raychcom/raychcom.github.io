@@ -25,6 +25,13 @@ classes: wide
       <i class="fa-brands fa-github"></i>
     </a>
   </div>
+  
+    <!-- Linktree buttons -->
+  <div class="linktree-links">
+    <a class="btn btn--primary btn--large btn--block" href="https://datasetsearch.research.google.com/" target="_blank" rel="noopener">
+      Google Dataset Search
+    </a>
+  </div>
 
   <!-- Hub text -->
   <div class="home-hub__text">
