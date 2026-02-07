@@ -70,7 +70,7 @@ classes: wide
 
 <p>Weekly music picks. Personal projects. Stuff. </p>
 
-<p>I’m a tech-y gal who listens to too much music and mostly hangs with my ~~fiancée~~ wife and pets. </p>
+<p>I’m a tech-y gal who listens to too much music and mostly hangs with my <s>fiancée</s> wife and pets. </p>
 
 </div>
 </div>
