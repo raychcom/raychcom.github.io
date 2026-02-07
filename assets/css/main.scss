@@ -40,6 +40,21 @@
   }
 }
 
+/* =========================================================
+   Truly center hub on the page (Minimal Mistakes fix)
+   ========================================================= */
+
+body.home-hub .page__inner-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+body.home-hub .page__content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 /* Optional: vertically center hub content */
 body.home-hub .initial-content {
   display: flex;
