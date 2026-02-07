@@ -41,14 +41,23 @@ classes: wide
   <!-- Linktree buttons -->
   <div class="linktree-links">
     <a class="btn btn--primary btn--large btn--block" href="https://www.twitch.tv/raych_com" target="_blank" rel="noopener">
-      Co-working w/ Guppies Livestream
+      🐠 Co-working w/ Guppies Livestream 🐠
     </a>
 
     <a class="btn btn--primary btn--large btn--block" href="https://open.spotify.com/user/31ekhjd5x5qoyln7zo4zkv4tneay" target="_blank" rel="noopener">
-      Playlists
+      🎧 Playlists 🎧
     </a>
   </div>
 
+    <a class="btn btn--primary btn--large btn--block" href="/" target="_blank" rel="noopener">
+      Raych
+    </a>
+  </div>
+
+    <a class="btn btn--primary btn--large btn--block" href="/makes/" target="_blank" rel="noopener">
+      Raych Makes
+    </a>
+  </div>
   <!-- Hub text -->
   <div class="home-hub__text">
     <p>The turtles racked up 12.6k+ followers and 300k+ likes on TikTok—but I've moved all their content off the platform. You can now follow them on Bluesky <a href="https://bsky.app/profile/turtles.raych.com">@turtles.raych.com</a>.</p>
