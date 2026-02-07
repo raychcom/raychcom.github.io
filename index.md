@@ -64,11 +64,13 @@ classes: wide
   </a>
 </div>
 
-Domain names are like $15/year 🤷🏻‍♀️, so here we are.
+<!-- Hub text -->
+  <div class="home-hub__text">
+<p>Domain names are like $15/year 🤷🏻‍♀️, so here we are.</p>
 
-Weekly music picks. Personal projects. Stuff. 
+<p>Weekly music picks. Personal projects. Stuff. </p>
 
-I’m a tech-y gal who listens to too much music and mostly hangs with my ~~fiancée~~ wife and pets. <br/>
-<br/>
+<p>I’m a tech-y gal who listens to too much music and mostly hangs with my ~~fiancée~~ wife and pets. </p>
 
+</div>
 </div>
