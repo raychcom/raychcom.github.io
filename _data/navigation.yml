@@ -1,4 +1,4 @@
-main:
+#main:
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
@@ -7,14 +7,14 @@ main:
   #   url: /tags/
   # - title: "Home"
   #   url: /
-  - title: "Turtles"
-    url: /turtles/
-  - title: "Playlists"
-    url: /playlists
-  - title: "Makes"
-    url: /makes/
-  - title: "About"
-    url: /about/
+  # - title: "Turtles"
+  #     url: /turtles/
+  # - title: "Playlists"
+  #   url: /playlists
+  # - title: "Makes"
+  #   url: /makes/
+  # - title: "About"
+  #   url: /about/
   # - title: "Work"
   #   url: /work/
   # - title: "Newsletter"
