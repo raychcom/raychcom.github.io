@@ -43,6 +43,11 @@ classes: wide
 
 <!-- Linktree buttons -->
 <div class="linktree-links">
+  
+  <a class="btn btn--primary btn--large btn--block" href="https://open.spotify.com/playlist/4PqkabW4RTD3BxMaKsye3L" target="_blank" rel="noopener">
+    Jams of the Week
+  </a>
+  
   <a class="btn btn--primary btn--large btn--block" href="https://bsky.app/profile/photos.raych.com" target="_blank" rel="noopener">
     Photos (Bluesky)
   </a>
@@ -52,15 +57,15 @@ classes: wide
   </a>
 
   <a class="btn btn--primary btn--large btn--block" href="/turtles/" target="_blank" rel="noopener">
-    Turtles
+    🐢 Turtles 🐢
   </a>
 
   <a class="btn btn--primary btn--large btn--block" href="https://www.twitch.tv/raych_com" target="_blank" rel="noopener">
-    Co-working w/ Guppies Livestream
+    🐠 Co-working w/ Guppies Livestream 🐠
   </a>
-
-  <a class="btn btn--primary btn--large btn--block" href="https://open.spotify.com/playlist/4PqkabW4RTD3BxMaKsye3L" target="_blank" rel="noopener">
-    Jams of the Week
+  
+  <a class="btn btn--primary btn--large btn--block" href="/makes/" target="_blank" rel="noopener">
+    Raych Makes
   </a>
 </div>
 
