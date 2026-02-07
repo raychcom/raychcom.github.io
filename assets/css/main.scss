@@ -9,8 +9,8 @@
 
 .home-hub {
   width: 100%;
-  max-width: 420px;        /* mobile default */
-  margin: 3rem auto;
+  max-width: 720px;
+  margin: 0 auto; /* center horizontally */
   padding: 2.5rem 2rem;
   text-align: center;
 
@@ -18,40 +18,16 @@
   border-radius: 16px;
 }
 
-/* Tablet */
-@media (min-width: 640px) {
-  .home-hub {
-    max-width: 520px;
-    padding: 3rem 2.5rem;
-  }
-}
-
-/* Small desktop */
-@media (min-width: 900px) {
-  .home-hub {
-    max-width: 640px;
-  }
-}
-
-/* Large desktop */
-@media (min-width: 1200px) {
-  .home-hub {
-    max-width: 720px;
-  }
-}
-
 /* =========================================================
-   Truly center hub on the page (Minimal Mistakes fix)
+   Override Minimal Mistakes page wrappers
    ========================================================= */
 
-body.home-hub .page {
+body.home-hub .page,
+body.home-hub .page__inner-wrap,
+body.home-hub .page__content {
   max-width: 100% !important;
-}
-
-body.home-hub .page__inner-wrap {
-  max-width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  width: 100% !important;
+  margin: 0 !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
 
@@ -59,29 +35,14 @@ body.home-hub .page__inner-wrap {
   justify-content: center;
 }
 
-body.home-hub .page__content {
-  max-width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+/* =========================================================
+   Vertically center content
+   ========================================================= */
 
-  display: flex;
-  justify-content: center;
-}
-
-/* Optional: vertically center hub content */
 body.home-hub .initial-content {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  padding-top: 0 !important;
-}
-
-body.home-hub #main {
-  margin-top: 0 !important;
-}
-
-body.home-hub .page__content {
   padding-top: 0 !important;
 }
 
