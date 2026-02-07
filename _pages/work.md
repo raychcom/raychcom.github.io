@@ -28,8 +28,7 @@ classes: wide
 
   <!-- Hub text -->
   <div class="home-hub__text">
-    <p>Hi, I’m Rachel Sprague, aka Raych.</p>
-
+    
     <p>I’m a Senior Data Analyst by title, but most of my day-to-day leans heavily into analytics engineering: building scalable data models with dbt and optimizing pipelines.</p>
 
   <p>Lately, I’ve been focused on AI-forward analytics—finding ways to integrate modern tooling and automation into real-world workflows.</p>
