@@ -6,19 +6,15 @@
 /* =========================================================
    Hub container – responsive width
    ========================================================= */
+
 .home-hub {
   width: 100%;
-  max-width: 420px;        /* mobile default */
+  max-width: 420px;
   margin: 3rem auto;
   padding: 2.5rem 2rem;
   text-align: center;
-
   background: #000;
   border-radius: 16px;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 /* Tablet */
@@ -44,42 +40,39 @@
 }
 
 /* =========================================================
-   Truly center hub on the page (Minimal Mistakes override)
+   🔥 Kill Minimal Mistakes layout offsets on hub pages
    ========================================================= */
-body.home-hub .initial-content {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  min-height: 100vh;
-  padding-top: 0 !important;
-}
 
+body.home-hub .page,
 body.home-hub .page__inner-wrap,
-body.home-hub .page__content {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-}
-
-/* 🔥 THIS IS THE CRITICAL FIX */
-body.home-hub .page {
+body.home-hub .page__content,
+body.home-hub .initial-content,
+body.home-hub #main {
+  margin-left: auto !important;
+  margin-right: auto !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
+  max-width: 100% !important;
 }
 
-/* Remove theme margin pushing content right */
-body.home-hub #main {
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
-
+/* Center content container */
 body.home-hub .page__content {
-  padding-top: 0 !important;
+  display: flex;
+  justify-content: center;
+}
+
+/* Optional vertical centering */
+body.home-hub .initial-content {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 /* =========================================================
    Logo
    ========================================================= */
+
 .home-hub .logo-container img {
   max-width: 200px;
   height: auto;
@@ -89,6 +82,7 @@ body.home-hub .page__content {
 /* =========================================================
    Social icons row
    ========================================================= */
+
 .home-hub .social-row--icons {
   display: flex;
   justify-content: center;
@@ -117,24 +111,26 @@ body.home-hub .page__content {
 /* =========================================================
    Linktree buttons
    ========================================================= */
+
 .home-hub .linktree-links {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
   width: 100%;
-  align-items: center;
 }
 
 /* =========================================================
    Hub text styling
    ========================================================= */
+
 .home-hub__text {
   max-width: 520px;
   margin-top: 2rem;
   color: #ffffff !important;
   line-height: 1.6;
   font-size: 0.95rem;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .home-hub__text p {
@@ -153,6 +149,7 @@ body.home-hub .page__content {
 /* =========================================================
    Hide nav on this page
    ========================================================= */
+
 body.hide-nav .masthead {
   display: none;
 }
