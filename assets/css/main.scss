@@ -16,11 +16,9 @@
   background: #000;
   border-radius: 16px;
 
-  /* Center all inner content */
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-start; /* change to center if you want vertical centering inside box */
 }
 
 /* Tablet */
@@ -46,12 +44,12 @@
 }
 
 /* =========================================================
-   Truly center hub on the page
+   Truly center hub on the page (Minimal Mistakes override)
    ========================================================= */
 body.home-hub .initial-content {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* vertical centering */
+  justify-content: center;
   min-height: 100vh;
   padding-top: 0 !important;
 }
@@ -59,12 +57,20 @@ body.home-hub .initial-content {
 body.home-hub .page__inner-wrap,
 body.home-hub .page__content {
   display: flex;
-  justify-content: center; /* horizontal centering of the black box */
+  justify-content: center;
   width: 100%;
 }
 
+/* 🔥 THIS IS THE CRITICAL FIX */
+body.home-hub .page {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Remove theme margin pushing content right */
 body.home-hub #main {
-  margin-top: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 body.home-hub .page__content {
@@ -116,7 +122,7 @@ body.home-hub .page__content {
   flex-direction: column;
   gap: 0.75rem;
   width: 100%;
-  align-items: center; /* ensure buttons are centered in box */
+  align-items: center;
 }
 
 /* =========================================================
