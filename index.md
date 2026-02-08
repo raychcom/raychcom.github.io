@@ -1,12 +1,12 @@
 ---
 layout: single
-body_classes: hide-nav
+body_classes: hide-nav home-hub
 read_time: false
 author_profile: false
 sidebar: false
 share: false
 hide_title: true
-classes: wide
+classes: full
 ---
 
 <!-- Full-page container -->
